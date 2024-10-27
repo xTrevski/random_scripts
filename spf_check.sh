@@ -1,4 +1,4 @@
-#!/usr/binenv sh
+#!/usr/bin/env sh
 
 # File containing the list of domains
 domain_file="domains.txt"
